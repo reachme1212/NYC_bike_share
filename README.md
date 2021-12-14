@@ -30,8 +30,8 @@ Following are some of the chart images from the analysis.
 
 Here are the links to Dashboards and story:
 
-![link to Story](https://public.tableau.com/app/profile/sangeetha.venu.gopalan/viz/Mod14_Challenge_16395063197060/NYCbikesharestory)
+[link to Story](https://public.tableau.com/app/profile/sangeetha.venu.gopalan/viz/Mod14_Challenge_16395063197060/NYCbikesharestory)
 
-![link to dashboard1](https://public.tableau.com/app/profile/sangeetha.venu.gopalan/viz/Mod14_Challenge_Db1/DB1)
+[link to Dashboard1](https://public.tableau.com/app/profile/sangeetha.venu.gopalan/viz/Mod14_Challenge_Db1/DB1)
 
-![link to dashboard2](https://public.tableau.com/app/profile/sangeetha.venu.gopalan/viz/Mod14_Challenge_Db2/DB2)
+[link to Dashboard2](https://public.tableau.com/app/profile/sangeetha.venu.gopalan/viz/Mod14_Challenge_Db2/DB2)
