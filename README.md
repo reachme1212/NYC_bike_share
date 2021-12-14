@@ -6,7 +6,7 @@ I am analyzing NYC “Citi bike” data, This is a successful bike sharing compa
 
 **Purpose of this analysis:**
 
-Tableau is an excellent tool for data visualization, in this analysis created the following charts
+Tableau is an excellent tool for data visualization and its easy to understand requires no coding, In this analysis I have created the following charts
 
 1.I have compared the trip duration and number of bikes used based on every hour of the day using a line chart, This information helps if we get investor to start this bike sharing in Des Moines we will know the busy hours , How many bikes we need to stock to meet customer demands.
 
